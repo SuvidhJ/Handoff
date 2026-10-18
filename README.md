@@ -1,6 +1,6 @@
 # A support agent for @AmericanAir — and how far to trust it
 
-[![ci](https://github.com/SuvidhJ/how-far-to-trust-it/actions/workflows/ci.yml/badge.svg)](https://github.com/SuvidhJ/how-far-to-trust-it/actions/workflows/ci.yml)
+[![ci](https://github.com/SuvidhJ/Handoff/actions/workflows/ci.yml/badge.svg)](https://github.com/SuvidhJ/Handoff/actions/workflows/ci.yml)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY-NC-SA 4.0](https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-lightgrey.svg)](DATA_LICENSE.md)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](.python-version)
@@ -15,7 +15,7 @@ The agent is the smaller half of the project. The larger half is the evidence: a
 hand-labelled evaluation set, two baselines, an independent LLM annotator, an adversarial
 probe, 53 logged decisions, and a written account of what the headline number hides.
 
-**[Live demo](https://suvidhj.github.io/how-far-to-trust-it/)** — every one of the 218 evaluation
+**[Live demo](https://suvidhj.github.io/Handoff/)** — every one of the 218 evaluation
 messages replayed through the agent, plus the charts behind the numbers below ·
 **[Full report](reports/REPORT.md)** · **[Decision log](reports/DECISIONS.md)**
 
